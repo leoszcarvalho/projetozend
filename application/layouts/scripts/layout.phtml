@@ -4,6 +4,12 @@
     </head>
 
     <body>
+        <div>
+            <a href="<?php echo $this->url(array('controller' => 'customer', 'action' => 'create'), null, true  ); ?>">Alunos</a>
+            <a href="<?php echo $this->url(array('controller' => 'customer', 'action' => 'index'), null, true  ); ?>">Controle de Alunos</a>
+            <a href="<?php echo $this->url(array('controller' => 'employees', 'action' => 'index'), null, true  ); ?>">Controle de Funcionários</a>
+            
+        </div>
        <?php echo $this->layout()->content; ?>asdasd 
     </body>
 </html>
