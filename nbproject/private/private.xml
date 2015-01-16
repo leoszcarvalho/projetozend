@@ -3,13 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/var/www/html/projeto-zend/application/controllers/AccountController.php</file>
+            <file>file:/var/www/html/projeto-zend/application/models/DbTable/Customer.php</file>
+            <file>file:/var/www/html/projeto-zend/application/forms/Customer.php</file>
             <file>file:/var/www/html/projeto-zend/application/controllers/CustomerController.php</file>
-            <file>file:/var/www/html/projeto-zend/application/Bootstrap.php</file>
-            <file>file:/var/www/html/projeto-zend/application/controllers/IndexController.php</file>
+            <file>file:/var/www/html/projeto-zend/application/forms/Employees.php</file>
             <file>file:/var/www/html/projeto-zend/application/configs/application.ini</file>
+            <file>file:/var/www/html/projeto-zend/application/configs/forms/customer.ini</file>
             <file>file:/var/www/html/projeto-zend/application/layouts/scripts/layout.phtml</file>
-            <file>file:/var/www/html/projeto-zend/application/controllers/EmployeesController.php</file>
         </group>
     </open-files>
 </project-private>
